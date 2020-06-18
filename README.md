@@ -12,7 +12,7 @@ Connected!
 
 4 || Towels || home || 8 || 250
 
-5 || Nintedo Switch || electronics || 400 || 55
+5 || Nintendo Switch || electronics || 400 || 55
 
 6 || Pikachu Stuffed Animal || toys || 12 || 80
 
